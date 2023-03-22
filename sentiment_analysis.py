@@ -18,7 +18,7 @@ def extract_roots(text):
     return roots
 
 # Set up a directory path containing the .txt files to analyze
-dir_path = "/Users/anthony/Desktop/Spring 2023/EC 480/Capstone Ideas/Datasets/text analysis/txt statements"
+dir_path = "Your/Directory"
 
 # Iterate through each .txt file in the directory and assign a score
 for filename in os.listdir(dir_path):

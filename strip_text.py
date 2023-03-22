@@ -1,7 +1,7 @@
 import os
 
 # Directory where the text files are located
-dir_path = '/Users/anthony/Desktop/Spring 2023/EC 480/Capstone Ideas/Datasets/text analysis/txt statements'
+dir_path = 'Your/Directory'
 
 # Iterate over each file in the directory
 for file_name in os.listdir(dir_path):

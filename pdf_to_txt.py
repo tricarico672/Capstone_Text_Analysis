@@ -2,8 +2,8 @@ import os
 from pdfminer.high_level import extract_text
 
 # Define input and output directories
-input_dir = "/Users/anthony/Desktop/Spring 2023/EC 480/Capstone Ideas/Datasets/text analysis/Pdf statements"
-output_dir = "/Users/anthony/Desktop/Spring 2023/EC 480/Capstone Ideas/Datasets/text analysis/txt statements"
+input_dir = "Your/Directory"
+output_dir = "Your/Directory"
 
 # Loop through each file in the input directory
 for filename in os.listdir(input_dir):

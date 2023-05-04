@@ -10,4 +10,4 @@ sentiment_analysis.
 
 Since txt files are already provided in https://github.com/tricarico672/Capstone_Text_Analysis/tree/main/txt%20statements, there is no need to run the pdf_to_txt program. 
 
-Functioning: simply specify the directory (path to folder) where the txt files are located on your computer after the download and run the sentiment_analysis snippet. 
+Functioning: simply specify the directory (path to folder) where the txt files are located on your computer after the download as a variable replacing the "Your/directory" placeholder. Keep your directory specified as a string to prevent issues when running the program. Then run the sentiment_analysis snippet. 

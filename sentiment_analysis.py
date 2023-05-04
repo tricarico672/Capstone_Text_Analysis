@@ -18,7 +18,7 @@ def extract_roots(text):
     return roots
 
 # Set up a directory path containing the .txt files to analyze
-dir_path = "Your/Directory"
+dir_path = "https://github.com/tricarico672/Capstone_Text_Analysis/tree/main/txt%20statements"
 
 # Iterate through each .txt file in the directory and assign a score
 for filename in os.listdir(dir_path):

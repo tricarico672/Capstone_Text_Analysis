@@ -8,4 +8,6 @@ strip_text,
 strip_last_lines,
 sentiment_analysis.
 
-Functioning: simply specify the directory where the pdf files are located and an output directory where you want the txt files to be stored
+Since txt files are already provided in https://github.com/tricarico672/Capstone_Text_Analysis/tree/main/txt%20statements, there is no need to run the pdf_to_txt program. 
+
+Functioning: simply specify the directory (path to folder) where the txt files are located on your computer after the download and run the sentiment_analysis snippet. 
